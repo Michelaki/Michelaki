@@ -23,20 +23,14 @@ Welcome to my GitHub! I'm passionate about data science, machine learning, and t
 - 🌐 Hosted Demo: [Streamlit App](https://your-app.streamlit.app)
 - 📊 Key Output: Confusion matrix, ROC curve
 
----
 
-## 📰 Blog Posts
 
-- ✍️ [How I Built a Data Science Project From Scratch](https://your-medium-link)
-- 🧠 [Explaining Models with SHAP](https://your-blog-link)
-
----
 
 ## 📫 Let's Connect
 
-- 📧 Email: your-email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)  
-- 🌐 [Portfolio Website](https://yourportfolio.com)
+- 📧 Email: mariamichelaki2@gmail.com
+- 💼 LinkedIn :  https://www.linkedin.com/in/maria-michelaki-77070b376/
+- 🌐 Portfolio Website : 
 
 
 Thanks for stopping by! Feel free to explore my projects and reach out if you'd like to collaborate.
