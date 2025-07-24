@@ -52,13 +52,6 @@ Classifies brand logos using CNNs, useful for marketing and brand identification
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: *your-email@example.com*
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(optional)*
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: mariamichelaki2@gmail.com
